@@ -1,0 +1,21 @@
+
+
+.block {
+    display: inline-block;
+    float: left;
+    background-color: orange;
+    height: 15px;
+    width: 15px;
+    margin: 1px;
+}
+.selected {
+    background-color: blue;
+}
+#button-wrapper {
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+}
+button {
+    display: inline-block;
+}
